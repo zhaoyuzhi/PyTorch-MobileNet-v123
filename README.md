@@ -2,6 +2,8 @@
 
 Provide implementations and pre-trained models of MobileNet-v1, v2, and v3.
 
+For IN version, please refer to https://github.com/zhaoyuzhi/PyTorch-MobileNet-v123-InstanceNorm.
+
 The advance is the pre-trained models can seperate **each layer**.
 
 If you think this repo is helpful for your research, please star or fork.
